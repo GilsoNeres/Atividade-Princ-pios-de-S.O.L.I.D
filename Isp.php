@@ -4,7 +4,7 @@
 * Curso de Engenharia de Software - UniEVANGÉLICA 
 * Disciplina de Programação Web 
 * Dev: Gilso Reinaldo Neres Assis
-* DATA: 20/06
+* DATA: 20/06/2024
 */ 
 
 // Interface que define métodos para manipulação de usuários
