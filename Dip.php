@@ -41,7 +41,7 @@ class UserHandler {
 }
 
 // Instancia um novo usuário
-$user = new User(1, 'John Doe', 'john@example.com', 'password123');
+$user = new User(1, 'Gilso', 'gilso_neres@hotmail.com', 'password123');
 // Instancia os serviços necessários
 $userStorage = new UserRepository();
 $notificationService = new EmailService();
